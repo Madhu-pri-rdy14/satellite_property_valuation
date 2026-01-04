@@ -1,0 +1,6 @@
+1. Introduction
+
+Property valuation is a complex task influenced by both internal house attributes and external environmental factors. Traditional machine learning models rely heavily on structured numerical features such as square footage, number of bedrooms, and location coordinates. However, these features alone often fail to capture neighbourhood characteristics like road layout, greenery, and urban density.
+
+This project presents a multimodal deep learning framework that combines tabular property data with satellite imagery to predict house prices more accurately. By integrating visual context with numerical attributes, the model achieves improved performance and better real-world interpretability.
+2.Exploratory Data Analysis (EDA)
